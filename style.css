@@ -5,21 +5,20 @@ body {
 
 header {
   max-width: 100%;
+  margin-bottom: 4%;
 }
 #main {
-  max-height: 100%;
-  height: 100%;
-  margin-bottom: 8%;
 }
 #service {
-  max-height: 100%;
-  height: 100%;
-  margin-bottom: 20%;
 }
-#about {
+#contact {
   max-height: 100%;
   height: 100%;
-  margin-bottom: 20%;
+  margin-bottom: 5%;
+}
+#hem {
+  padding-top: 0%;
+  margin-bottom: -10%;
 }
 
 .main-image {
@@ -50,7 +49,10 @@ header {
 }
 
 section {
-  padding-top: 3rem;
+  padding-top: 7%;
+  max-height: 100%;
+
+  margin-bottom: -5%;
 }
 
 h2 {
